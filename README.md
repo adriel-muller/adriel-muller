@@ -4,7 +4,7 @@
 
 ### 💻 System developer and analyst!
 
-<p>🏨 Currently working at [Laghetto Hotéis](https://laghettohoteis.com.br/) </p>
+🏨 Currently working at [Laghetto Hotéis](https://laghettohoteis.com.br/)
 <p>📚 Studying  about Software Design & Architecture</p>
 <p>📫 How to reach me adrielmuller11@gmail.com</p>
 
