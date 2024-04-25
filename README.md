@@ -4,7 +4,7 @@
 
 ### 💻 System developer and analyst!
 
-🏨 Currently working at [Di Solle](https://www.linkedin.com/company/di-solle-cutelaria/?originalSubdomain=br)
+🏨 Currently working at [Laghetto Hotéis](https://www.linkedin.com/company/laghetto/mycompany/)
 <p>📚 Studying  about Software Design & Architecture</p>
 📫 How to reach me adrielmuller11@gmail.com
 
