@@ -5,7 +5,7 @@
 ### 💻 System developer and analyst!
 
 🏨 Currently working at [Done TI](https://www.done.com.br/)
-<p>📚 Studying  about Software Design & Architecture</p>
+<p>📚 Studying  about Cybersecurity and Data Analytics</p>
 📫 How to reach me adrielmuller11@gmail.com
 <br/>  
 
