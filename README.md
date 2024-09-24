@@ -4,7 +4,7 @@
 
 ### 💻 System developer and analyst!
 
-🏨 Currently working at [Done TI](https://www.done.com.br/) and [Bom Pastor Laboratório Clínico](https://labbompastor.com.br/)
+🏨 Currently working at [Bom Pastor Laboratório Clínico](https://labbompastor.com.br/)
 <p>📚 Studying  about Cybersecurity and Data Analytics</p>
 📫 How to reach me adrielmuller11@gmail.com
 <br/>  
