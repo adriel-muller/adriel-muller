@@ -4,8 +4,8 @@
 
 ### 💻 System developer and analyst!
 
-🏨 Currently working at [Bom Pastor Laboratório Clínico](https://labbompastor.com.br/)
-<p>📚 Studying  about Cybersecurity and Data Analytics</p>
+🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/)
+<p>📚 Studying  about Systems Analysis and Data Analytics</p>
 📫 How to reach me adrielmuller11@gmail.com
 <br/>  
 <br/>  
