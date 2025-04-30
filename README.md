@@ -4,7 +4,8 @@
 
 ### 💻 System developer and analyst!
 
-🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/) <br/>  
+🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/)
+
 📫 How to reach me adrielmuller11@gmail.com
 <br/>    
 <div>
