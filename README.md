@@ -4,11 +4,9 @@
 
 ### 💻 System developer and analyst!
 
-🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/)
+🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/) <br/>  
 📫 How to reach me adrielmuller11@gmail.com
-<br/>  
-<br/>  
-<br/>  
+<br/>    
 <div>
   <a href="https://github.com/adriel-muller">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriel-muller&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
