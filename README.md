@@ -5,7 +5,6 @@
 ### 💻 System developer and analyst!
 
 🏨 Currently working at [CrisduLabs](https://crisdulabs.com.br/)
-<p>📚 Studying  about Systems Analysis and Data Analytics</p>
 📫 How to reach me adrielmuller11@gmail.com
 <br/>  
 <br/>  
