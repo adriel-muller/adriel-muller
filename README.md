@@ -4,14 +4,7 @@
 
 ### 💻 System developer and Product Owner!
 
-🏨 Currently working at [GVdasa](https://gvdasa.com.br/)
+🏨 Currently working at [Larroudé](https://larroude.com/)
 
 📫 How to reach me adrielmuller11@gmail.com
-<br/>    
-<div>
-  <a href="https://github.com/adriel-muller">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adriel-muller&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adriel-muller&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
